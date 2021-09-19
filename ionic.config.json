@@ -1,0 +1,7 @@
+{
+  "name": "ionic-firebase-firestore-database",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
